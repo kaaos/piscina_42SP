@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_print_alphabet.c                                :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: kaaos <kaaos@student.42.fr>                +#+  +:+       +#+        */
+/*   By: freduard <freduard@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/05/31 14:55:48 by freduard          #+#    #+#             */
-/*   Updated: 2023/07/03 10:27:31 by kaaos            ###   ########.fr       */
+/*   Updated: 2023/07/04 17:12:30 by freduard         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -24,7 +24,7 @@ void	ft_print_alphabet(void)
 	}
 }
 
-// int	main(void)
-// {
-// 	ft_print_alphabet();
-// }
+int	main(void)
+{
+	ft_print_alphabet();
+}

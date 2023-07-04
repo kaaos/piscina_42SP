@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_print_comb2.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: kaaos <kaaos@student.42.fr>                +#+  +:+       +#+        */
+/*   By: freduard <freduard@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/03 15:16:28 by freduard          #+#    #+#             */
-/*   Updated: 2023/07/03 12:56:48 by kaaos            ###   ########.fr       */
+/*   Updated: 2023/07/04 17:13:10 by freduard         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -55,7 +55,7 @@ void	ft_print_comb2(void)
 	}
 }
 
-// int	main(void)
-// {
-// 	ft_print_comb2();
-// }
+int	main(void)
+{
+	ft_print_comb2();
+}
