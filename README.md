@@ -50,3 +50,17 @@ through the challenges"
   The most amazing part, though, is the personal growth you experience. You learn to work effectively in a team, how to learn independently, how to seek and share knowledge, and how to manage your time and life to make the most of the Piscine. You also discover your own limits and overcome self-limiting beliefs. Living respectfully in a community, creating a safe environment to expose your weaknesses, and nurturing your strengths is truly priceless. No book in the world (or guide to galaxy ;p) can teach you these things as effectively as this brief immersion in the Piscine.
 
   So, yes, it's challenging, but it's also an incredibly rewarding experience. It's like taking a plunge into a world of technology, personal growth, and teamwork. And when you see yourself teaching others and witnessing the ripple effect of knowledge spreading, it's truly a beautiful feeling. So, if you ever get the chance to dive into a Piscine, go for it! You won't regret!
+
+   # LIST OF C_00 EXERCISES
+
+   | EXERCISES | SOLUTION                                                          | DESCRIPTION                                   |
+   |-----------|-------------------------------------------------------------------|-----------------------------------------------|
+   | ex00      | [ft_putchar.c](./ex00/ft_putchar.c)                               | [ft_putchar](./ex00/readme.md)                |
+   | ex01      | [ft_print_alphabet.c](./ex01/ft_print_alphabet.c)                 | [ft_print_alphabet](./ex01/readme.md)         |
+   | ex02      | [ft_print_reverse_alphabet.c](./ex02/ft_print_reverse_alphabet.c) | [ft_print_reverse_alphabet](./ex02/readme.md) |
+   | ex03      | [ft_print_numbers.c](./ex03/ft_print_numbers.c)                   | [ft_print_numbers](./ex03/readme.md)          |
+   | ex04      | [ft_is_negative.c](./ex04/ft_is_negative.c)                       | [ft_is_negative](./ex04/readme.md)            |
+   | ex05      | [ft_print_comb.c](./ex05/ft_print_comb.c)                         | [ft_print_comb](./ex05/readme.md)             |
+   | exo6      | [ft_print_comb2.c](./ex06/ft_print_comb2.c)                       | [ft_print_comb2](./ex06/readme.md)            |
+   | ex07      | [ft_putnbr.c](./ex07/ft_putnbr.c)                                 | [ft_putnbr](./ex07/readme.md)                 |
+   |  ex08      | [ft_print_combn.c](./ex08/ft_print_combn.c)                       | [ft_print_combn](./ex08/readme.md)            |
