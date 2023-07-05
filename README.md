@@ -54,15 +54,22 @@ through the challenges"
 
    # LIST OF EXERCISES
 
-   | EXERCISES | SOLUTION                                                               | DESCRIPTION                                        |
-   |-----------|------------------------------------------------------------------------|----------------------------------------------------|
-   | C_00      |________________________________________________________________________|____________________________________________________|
-   | ex00      | [ft_putchar.c](./c_00/ex00/ft_putchar.c)                               | [ft_putchar](./c_00/ex00/readme.md)                |
-   | ex01      | [ft_print_alphabet.c](./c_00/ex01/ft_print_alphabet.c)                 | [ft_print_alphabet](./c_00/ex01/readme.md)         |
-   | ex02      | [ft_print_reverse_alphabet.c](./c_00/ex02/ft_print_reverse_alphabet.c) | [ft_print_reverse_alphabet](./c_00/ex02/readme.md) |
-   | ex03      | [ft_print_numbers.c](./c_00/ex03/ft_print_numbers.c)                   | [ft_print_numbers](./c_00/ex03/readme.md)          |
-   | ex04      | [ft_is_negative.c](./c_00/ex04/ft_is_negative.c)                       | [ft_is_negative](./c_00/ex04/readme.md)            |
-   | ex05      | [ft_print_comb.c](./c_00/ex05/ft_print_comb.c)                         | [ft_print_comb](./c_00/ex05/readme.md)             |
-   | exo6      | [ft_print_comb2.c](./c_00/ex06/ft_print_comb2.c)                       | [ft_print_comb2](./c_00/ex06/readme.md)            |
-   | ex07      | [ft_putnbr.c](./c_00/ex07/ft_putnbr.c)                                 | [ft_putnbr](./c_00/ex07/readme.md)                 |
-   | ex08      | [ft_print_combn.c](./c_00/ex08/ft_print_combn.c)                      | [ft_print_combn](./c_00/ex08/readme.md)            |
+   | EXERCISES| SOLUTION                                                              | DESCRIPTION                                       |
+   |----------|-----------------------------------------------------------------------|---------------------------------------------------|
+   | C_00     |_______________________________________________________________________|___________________________________________________|
+   | ex00     | [ft_putchar.c](./c_00/ex00/ft_putchar.c)                              | [ft_putchar](./c_00/ex00/readme.md)               |
+   | ex01     | [ft_print_alphabet.c](./c_00/ex01/ft_print_alphabet.c)                | [ft_print_alphabet](./c_00/ex01/readme.md)        |
+   | ex02     | [ft_print_reverse_alphabet.c](./c_00/ex02/ft_print_reverse_alphabet.c)| [ft_print_reverse_alphabet](./c_00/ex02/readme.md)|
+   | ex03     | [ft_print_numbers.c](./c_00/ex03/ft_print_numbers.c)                  | [ft_print_numbers](./c_00/ex03/readme.md)         |
+   | ex04     | [ft_is_negative.c](./c_00/ex04/ft_is_negative.c)                      | [ft_is_negative](./c_00/ex04/readme.md)           |
+   | ex05     | [ft_print_comb.c](./c_00/ex05/ft_print_comb.c)                        | [ft_print_comb](./c_00/ex05/readme.md)            |
+   | exo6     | [ft_print_comb2.c](./c_00/ex06/ft_print_comb2.c)                      | [ft_print_comb2](./c_00/ex06/readme.md)           |
+   | ex07     | [ft_putnbr.c](./c_00/ex07/ft_putnbr.c)                                | [ft_putnbr](./c_00/ex07/readme.md)                |
+   | ex08     | [ft_print_combn.c](./c_00/ex08/ft_print_combn.c)                      | [ft_print_combn](./c_00/ex08/readme.md)           |
+   | C_01     |_______________________________________________________________________|___________________________________________________|
+   | ex00     |                                                                       |                                                   |
+   | ex01     |                                                                       |                                                   |
+   | ex02     |                                                                       |                                                   |
+   | ex03     |                                                                       |                                                   |
+   | ex04     |                                                                       |                                                   |
+   | ...      |                                                                       |                                                   |
