@@ -17,17 +17,17 @@ FAQ 42:
 
 • Project-Based Learning: The bootcamp emphasizes hands-on learning through real-world projects. You will tackle coding challenges that simulate industry scenarios, enabling the development of practical skills.
 
-• No Formal Instructors: At Ecole 42 São Paulo, the learning process is driven by your own curiosity and resourcefulness. Instead of traditional lectures, you'll have access to resources and mentors who can guide you along your learning journey.
+• No Formal Instructors: At École 42, the learning process is driven by your own curiosity and resourcefulness. Instead of traditional lectures, you'll have access to resources and mentors who can guide you along your learning journey.
 
-      # Values of Ecole 42 São Paulo
+      # Values of École 42 
 
-  Ecole 42 São Paulo stands on the foundation of several core values that shape the bootcamp experience:
+  École 42 stands on the foundation of several core values that shape the bootcamp experience:
 
 • Meritocracy: The selection process is based on individual merit and potential, allowing talented individuals from all backgrounds to have equal opportunities.
 
 • Peer-to-Peer Learning: Collaboration and teamwork are at the heart of the learning process. Through shared knowledge and collective problem-solving, participants develop a strong sense of community.
 
-• Autonomous Learning: At Ecole 42 São Paulo, you are encouraged to take ownership of your education. The bootcamp provides the necessary resources and guidance, empowering you to explore and learn independently.
+• Autonomous Learning: At École 42, you are encouraged to take ownership of your education. The bootcamp provides the necessary resources and guidance, empowering you to explore and learn independently.
 
 • Adaptability: The bootcamp challenges you to adapt and thrive in a fast-paced, ever-evolving industry. By facing a wide range of coding problems, you develop the versatility and resilience needed to succeed in the tech world.
 through the challenges"
