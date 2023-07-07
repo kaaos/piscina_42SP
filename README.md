@@ -8,7 +8,7 @@
 FAQ 42:
 
       # What is the Piscine?
- The piscine is a unique feature of Ecole 42 São Paulo's curriculum. It is an intensive coding bootcamp that spans a duration of four weeks. During the piscine, participants are fully immersed in a rigorous and challenging learning environment, where they engage in hands-on coding exercises and collaborative projects. Designed to deeply understand how to use Shell and C as hard skills, this intense and immersive coding experience aims to push you beyond your limits and turn you into a skilled and resourceful software engineer.
+ The piscine is a unique feature of École 42 curriculum. It is an intensive coding bootcamp that spans a duration of four weeks. During the piscine, participants are fully immersed in a rigorous and challenging learning environment, where they engage in hands-on coding exercises and collaborative projects. Designed to deeply understand how to use Shell and C as hard skills, this intense and immersive coding experience aims to push you beyond your limits and turn you into a skilled and resourceful software engineer.
 
       # The Piscine Structure
 • Bootcamp Duration: The piscine lasts four weeks, during which participants dedicate themselves entirely to coding.
