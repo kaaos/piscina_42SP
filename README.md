@@ -1,9 +1,10 @@
 # 🏊 My swin at 42SP Piscine  05/22/2023 - 06/16/2023 
 
-- In this repository, you'll find the exercises I tackled during my journey in the May-June Piscine at 42SP. Let me tell you, it was an incredible experience! For those intense weeks, I immersed myself in a world of coding challenges and personal growth.
- - From day one, I was faced with mind-boggling exercises that pushed me to my limits. Each task presented a new opportunity to learn and explore different programming concepts. So, as you explore this repository and go through those exercises, remember that each line of code represents a milestone in my journey. It is a testament to the hard work, dedication, and countless hours I invested in expanding my knowledge and honing my programming skills.
+- In this repository, you'll find the exercises I tackled during my journey in the May-June Piscine at 42SP.
 
-- I hope these exercises inspire and challenge you, just as they did for me. Don´t panic, grab your towel, enjoy the journey and trust the process!
+Let me tell you, it was an incredible experience! For those intense weeks, I immersed myself in a world of coding challenges and personal growth. From day one, I was faced with mind-boggling exercises that pushed me to my limits. Each task presented a new opportunity to learn and explore different programming concepts. So, as you explore this repository and go through those exercises, remember that each line of code represents a milestone in my journey. It is a testament to the hard work, dedication, and countless hours I invested in expanding my knowledge and honing my programming skills.
+
+I hope these exercises inspire and challenge you, just as they did for me. Don´t panic, grab your towel, enjoy the journey and trust the process!
 
 FAQ 42:
 
