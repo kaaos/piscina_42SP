@@ -88,4 +88,16 @@ through the challenges"
    | ex08     | [ft_strlowcase.c](./c_02/ex08/ft_strlowcase.c)                        |                                                   |
    | ex09     | [ft_strcapitalize.c](./c_02/ex09/ft_strcapitalize.c)                  |                                                   |
    | C_03     |_______________________________________________________________________|___________________________________________________|
-   | ex00     | 
+   | ex00     | [ft_strcmp.c](./c_03/ex00/ft_strcmp.c)                                |                                                   |
+   | ex01     | [ft_strncmp.c](./c_03/ex01/ft_strncmp.c)                              |                                                   |
+   | ex02     | [ft_strcat.c](./c_03/ex02/ft_strcat.c)                                |                                                   |
+   | ex03     | [ft_strncat.c](./c_03/ft_strncat.c)                                   |                                                   |
+   | ex04     | [ft_strstr.c](./c_03/ft_strstr.c)                                     |                                                   |
+   | ex05     | [ft_strlcat.c](./c_03/ft_strlcat.c)                                   |                                                   |
+   | C_04     |_______________________________________________________________________|___________________________________________________|
+   | ex00     | [ft_strlen.c](./c_04/ex00/ft_strlen.c)                                |                                                   |
+   | ex01     | [ft_putstr.c](./c_04/ex01/ft_putstr.c)                                |                                                   |
+   | ex02     | [ft_putnbr.c](./c_04/ex02/ft_putnbr.c)                                |                                                   |
+   | ex03     | [ft_atoi.c](./c_04/ex03/ft_atoi.c)                                    |                                                   |
+   | ex04     | [ft_putnbr_base.c](./c_04/ex04/ft_putnbr_base.c)                     |                                                   |
+   | C_05     |_______________________________________________________________________|___________________________________________________|
