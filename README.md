@@ -68,8 +68,18 @@ through the challenges"
    | ex08     | [ft_print_combn.c](./c_00/ex08/ft_print_combn.c)                      | [ft_print_combn](./c_00/ex08/readme.md)           |
    | C_01     |_______________________________________________________________________|___________________________________________________|
    | ex00     | [ft_ft.c](./c_01/ex00/ft_ft.c)                                        | [ft_ft.c](./c_01/ex00/readme.md)                  |
-   | ex01     | [                                                                     |                                                   |
-   | ex02     |                                                                       |                                                   |
-   | ex03     |                                                                       |                                                   |
-   | ex04     |                                                                       |                                                   |
-   | ...      |                                                                       |                                                   |
+   | ex01     | [ft_ultimate_ft.c](./c_01/ex01/ft_ultimate_ft.c)                      |                                                   |
+   | ex02     | [ft_swap.c](./c_01/ex02/ft_swap.c)                                    |                                                   |
+   | ex03     | [ft_div_mod.c](./c_01/ex03/ft_div_mod.c)                              |                                                   |
+   | ex04     | [ft_ultimate_div_mod.c](./c_01/ex04/ft_ultimate_div_mod.c)            |                                                   |
+   | ex05     | [ft_putstr.c](./c_01/ex05/ft_putstr.c)                                |                                                   |
+   | ex06     | [ft_strlen.c](./c_01/ex06/ft_putstrlen.c)                             |                                                   |
+   | ex07     | [ft_rev_int_tab.c](./c_01/ex07/ft_rev_int_tab.c)                      |                                                   |
+   | ex08     | [ft_sort_int_tab.c](./c_01/ex08/ft_sort_int_tab.c)                    |                                                   |
+   | C_02     |_______________________________________________________________________|___________________________________________________|
+   | ex00     | [ft_strcpy.c](./c_02/ex00/ft_strcpy.c)                                |                                                   |
+   | ex01     | [ft_strncpy.c](./c_02/ex01/ft_strncpy.c)                              |                                                   |
+   | ex02     | [ft_str_is_alpha.c](./c_02/ex02/ft_str_is_alpha.c)                    |                                                   |
+   | ex03     | [ft_is_numeric.c](./c_02/ex03/ft_is_numeric.c)                        |                                                   |
+   | ex04     | [ft_str_is_lowercase.c](./c_02/ex04/ft_str_is_lowercase.c)            |                                                   |
+   
