@@ -67,8 +67,8 @@ through the challenges"
    | ex07     | [ft_putnbr.c](./c_00/ex07/ft_putnbr.c)                                | [ft_putnbr](./c_00/ex07/readme.md)                |
    | ex08     | [ft_print_combn.c](./c_00/ex08/ft_print_combn.c)                      | [ft_print_combn](./c_00/ex08/readme.md)           |
    | C_01     |_______________________________________________________________________|___________________________________________________|
-   | ex00     |                                                                       |                                                   |
-   | ex01     |                                                                       |                                                   |
+   | ex00     | [ft_ft.c](./c_01/ex00/ft_ft.c)                                        | [ft_ft.c](./c_01/ex00/readme.md)                  |
+   | ex01     | [                                                                     |                                                   |
    | ex02     |                                                                       |                                                   |
    | ex03     |                                                                       |                                                   |
    | ex04     |                                                                       |                                                   |
