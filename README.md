@@ -82,4 +82,10 @@ through the challenges"
    | ex02     | [ft_str_is_alpha.c](./c_02/ex02/ft_str_is_alpha.c)                    |                                                   |
    | ex03     | [ft_is_numeric.c](./c_02/ex03/ft_is_numeric.c)                        |                                                   |
    | ex04     | [ft_str_is_lowercase.c](./c_02/ex04/ft_str_is_lowercase.c)            |                                                   |
-   
+   | ex05     | [ft_str_is_uppercase.c](./c_02/ex05/ft_str_is_uppercase.c)            |                                                   |
+   | ex06     | [ft_str_is_printable.c](./c_02/ex06/ft_str_is_printable.c)            |                                                   |
+   | ex07     | [ft_strupcase.c](./c_02/ex07/ft_strupcase.)                           |                                                   |
+   | ex08     | [ft_strlowcase.c](./c_02/ex08/ft_strlowcase.c)                        |                                                   |
+   | ex09     | [ft_strcapitalize.c](./c_02/ex09/ft_strcapitalize.c)                  |                                                   |
+   | C_03     |_______________________________________________________________________|___________________________________________________|
+   | ex00     | 
