@@ -57,7 +57,7 @@ through the challenges"
 
    | EXERCISES| SOLUTION                                                              | DESCRIPTION                                       |
    |----------|-----------------------------------------------------------------------|---------------------------------------------------|
-   | C_00     |_______________________________________________________________________|___________________________________________________|
+   |_C_00_____|_______________________________________________________________________|___________________________________________________|
    | ex00     | [ft_putchar.c](./c_00/ex00/ft_putchar.c)                              | [ft_putchar](./c_00/ex00/readme.md)               |
    | ex01     | [ft_print_alphabet.c](./c_00/ex01/ft_print_alphabet.c)                | [ft_print_alphabet](./c_00/ex01/readme.md)        |
    | ex02     | [ft_print_reverse_alphabet.c](./c_00/ex02/ft_print_reverse_alphabet.c)| [ft_print_reverse_alphabet](./c_00/ex02/readme.md)|
@@ -67,7 +67,7 @@ through the challenges"
    | exo6     | [ft_print_comb2.c](./c_00/ex06/ft_print_comb2.c)                      | [ft_print_comb2](./c_00/ex06/readme.md)           |
    | ex07     | [ft_putnbr.c](./c_00/ex07/ft_putnbr.c)                                | [ft_putnbr](./c_00/ex07/readme.md)                |
    | ex08     | [ft_print_combn.c](./c_00/ex08/ft_print_combn.c)                      | [ft_print_combn](./c_00/ex08/readme.md)           |
-   | C_01     |_______________________________________________________________________|___________________________________________________|
+   |_C_01_____|_______________________________________________________________________|___________________________________________________|
    | ex00     | [ft_ft.c](./c_01/ex00/ft_ft.c)                                        | [ft_ft.c](./c_01/ex00/readme.md)                  |
    | ex01     | [ft_ultimate_ft.c](./c_01/ex01/ft_ultimate_ft.c)                      |                                                   |
    | ex02     | [ft_swap.c](./c_01/ex02/ft_swap.c)                                    |                                                   |
@@ -77,7 +77,7 @@ through the challenges"
    | ex06     | [ft_strlen.c](./c_01/ex06/ft_putstrlen.c)                             |                                                   |
    | ex07     | [ft_rev_int_tab.c](./c_01/ex07/ft_rev_int_tab.c)                      |                                                   |
    | ex08     | [ft_sort_int_tab.c](./c_01/ex08/ft_sort_int_tab.c)                    |                                                   |
-   | C_02     |_______________________________________________________________________|___________________________________________________|
+   |_C_02_____|_______________________________________________________________________|___________________________________________________|
    | ex00     | [ft_strcpy.c](./c_02/ex00/ft_strcpy.c)                                |                                                   |
    | ex01     | [ft_strncpy.c](./c_02/ex01/ft_strncpy.c)                              |                                                   |
    | ex02     | [ft_str_is_alpha.c](./c_02/ex02/ft_str_is_alpha.c)                    |                                                   |
@@ -88,17 +88,24 @@ through the challenges"
    | ex07     | [ft_strupcase.c](./c_02/ex07/ft_strupcase.)                           |                                                   |
    | ex08     | [ft_strlowcase.c](./c_02/ex08/ft_strlowcase.c)                        |                                                   |
    | ex09     | [ft_strcapitalize.c](./c_02/ex09/ft_strcapitalize.c)                  |                                                   |
-   | C_03     |_______________________________________________________________________|___________________________________________________|
+   |_C_03_____|_______________________________________________________________________|___________________________________________________|
    | ex00     | [ft_strcmp.c](./c_03/ex00/ft_strcmp.c)                                |                                                   |
    | ex01     | [ft_strncmp.c](./c_03/ex01/ft_strncmp.c)                              |                                                   |
    | ex02     | [ft_strcat.c](./c_03/ex02/ft_strcat.c)                                |                                                   |
    | ex03     | [ft_strncat.c](./c_03/ft_strncat.c)                                   |                                                   |
    | ex04     | [ft_strstr.c](./c_03/ft_strstr.c)                                     |                                                   |
    | ex05     | [ft_strlcat.c](./c_03/ft_strlcat.c)                                   |                                                   |
-   | C_04     |_______________________________________________________________________|___________________________________________________|
+   |_C_04_____|_______________________________________________________________________|___________________________________________________|
    | ex00     | [ft_strlen.c](./c_04/ex00/ft_strlen.c)                                |                                                   |
    | ex01     | [ft_putstr.c](./c_04/ex01/ft_putstr.c)                                |                                                   |
    | ex02     | [ft_putnbr.c](./c_04/ex02/ft_putnbr.c)                                |                                                   |
    | ex03     | [ft_atoi.c](./c_04/ex03/ft_atoi.c)                                    |                                                   |
-   | ex04     | [ft_putnbr_base.c](./c_04/ex04/ft_putnbr_base.c)                     |                                                   |
-   | C_05     |_______________________________________________________________________|___________________________________________________|
+   | ex04     | [ft_putnbr_base.c](./c_04/ex04/ft_putnbr_base.c)                      |                                                   |
+   |_C_05_____|_______________________________________________________________________|___________________________________________________|
+   | ex00     | [ft_interactive_factorial.c](./c_05/ex00/ft_interactive_factorial.c)  |                                                   |
+   | ex01     | [ft_recursive_factorial.c](./c_05/ex01/ft_recursive_factorial.c)      |                                                   |
+   | ex02     | [ft_interactive_power.c](./c_05/ex02/ft_interactive_power.c)          |                                                   |
+   | ex03     | [ft_recursive_power.c](./c_05/ex03/ft_recursive_power.c)              |                                                   |
+   | ex04     | [ft_fibonacci.c](./c_05/ex04/ft_fibonacci.c)                          |                                                   |
+   |_C_06_____|_______________________________________________________________________|___________________________________________________|
+   | ex00     | [
