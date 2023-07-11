@@ -108,4 +108,7 @@ through the challenges"
    | ex03     | [ft_recursive_power.c](./c_05/ex03/ft_recursive_power.c)              |                                                   |
    | ex04     | [ft_fibonacci.c](./c_05/ex04/ft_fibonacci.c)                          |                                                   |
    |_C_06_____|_______________________________________________________________________|___________________________________________________|
-   | ex00     | [
+   | ex00     | [ft_print_program_name.c](./c_06/ex00/ft_print_program_name.c)        |                                                   |
+   | ex01     | [ft_print_params.c](./c_06/ex01/ft_print_params.c)                    |                                                   |
+   | ex02     | [ft_rev_params.c](./c_06/ex02/ft_rev_params.c)                        |                                                   |
+   |          |                                                                       |                                                   |
